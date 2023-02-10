@@ -78,7 +78,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This Project is written in native C++ written by Muneeb Ahmad. It uses the alpha beta pruning technique to find the best possible play to the user inputs and then generates the depth map of the current game runtime, and calculates all pruned possibilites using that it generates the best response possible for the game to proceed. This game engine supports 4x4 tic tac toe games as of right now.
+*This Project is written in native C++ written by Muneeb Ahmad. It uses the alpha beta pruning technique to find the best possible play to the user inputs and then generates the depth map of the current game runtime, and calculates all pruned possibilites using that it generates the best response possible for the game to proceed. This game engine supports 4x4 tic tac toe games as of right now.*
 
 
 
@@ -90,7 +90,7 @@ This Project is written in native C++ written by Muneeb Ahmad. It uses the alpha
 
 ### Installation
 
-```
+```python
 git clone https://github.com/OttomanZ/tictactoe
 cd tictactoe/
 g++ -o dev ./ai.cpp
