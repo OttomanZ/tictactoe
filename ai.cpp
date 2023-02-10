@@ -1,4 +1,6 @@
-// A C++ Program to play tic-tac-toe 
+// -----------------------------------
+// Inspired by Other GitHub Users
+// -----------------------------------
 
 #include<bits/stdc++.h> 
 using namespace std; 
