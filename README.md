@@ -23,7 +23,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/OttomanZ/tictactoe">
     <img src="https://papergames.io/en/assets/games/tictactoe/thumbnail.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -32,10 +32,10 @@
   <p align="center">
     Native C++ Alpha Beta Pruning Powered Engine.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/OttomanZ/tictactoe"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/OttomanZ/tictactoe">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
